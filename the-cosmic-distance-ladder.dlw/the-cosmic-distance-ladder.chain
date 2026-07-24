@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1510
+slug  : the-cosmic-distance-ladder
+seal  : bd0ffbee84d9cd142e4a443f83297c78bc86ac287675a5c123a95f55a959bc8f
+prev  : 310249891fa5cbedce6be5694129bfcfeacd27a0d8cb381b0e05d3b2d4436aa7
+link  : eb4755239533e9395bef44c10596ef48cb5b769940bb7f5ceefdfe0395b16acc
+head  : 4d57c7669fef8fdf0a63a98919e51156a3ada1dde1f92fe3b3d919a561d19e2f
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
